@@ -3,7 +3,7 @@ import { QRCodeCanvas } from 'qrcode.react'
 
 function App() {
   return createElement(QRCodeCanvas, {
-    value: 'https://ahtehshamahmad.github.io/qr-app-redirect-test/app.html',
+    value: 'https://ahtehshammaventech.github.io/qr-app-redirect-test/app.html',
     size: 220,
   })
 }
